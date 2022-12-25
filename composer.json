@@ -1,5 +1,5 @@
 {
-    "name": "alt-three/validator",
+    "name": "steffjenl/validator",
     "description": "A validation wrapper for Laravel",
     "keywords": ["validator", "validation", "Validator", "Alt Three"],
     "license": "MIT",
