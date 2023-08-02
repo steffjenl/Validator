@@ -7,6 +7,10 @@
         {
             "name": "Alt Three",
             "email": "support@alt-three.com"
+        },
+        {
+            "name": "MonkeySoft",
+            "email": "hallo@monkeysoft.nl"
         }
     ],
     "require": {
